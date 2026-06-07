@@ -1,0 +1,10 @@
+{
+  "name": "firstup-employee-incident-narrative-pack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FirstUp employee incident narrative pack for internal comms evidence, action routing, and board-safe incident language.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}
